@@ -5,7 +5,7 @@
 
 ### Information
 
-Version 1.0: Implementation of Algorithm for  Fairness-Aware Engagement Loss Reduction in Rumor Mitigation. For more details about our code, please read our paper: "Jiajie F., Xueqin C., Xiangyu K., Lu C., Yunjun G., Fairness-Aware Engagement Loss Reduction in Rumor Mitigation"
+Version 1.0: Implementation of Algorithm for  Fairness-Aware Engagement Loss Reduction in Rumor Mitigation. For more details about our code, please read our paper: "Anonymous Authors, Fairness-Aware Engagement Loss Reduction in Rumor Mitigation"
 
 ### Introduction
 
